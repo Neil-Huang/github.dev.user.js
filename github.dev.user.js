@@ -20,10 +20,10 @@
     var img = document.createElement("img");
     img.src = "https://raw.githubusercontent.com/Neil-Huang/github.dev.user.js/master/vscode.png";
     img.alt = "GOTO VS Code (github.dev)";
-    img.style = "padding-left:10px;";
 
     var link = document.createElement("a");
     link.href = "https://github.dev" + document.querySelector("strong.mr-2.flex-self-stretch a").href.slice(18);
+    link.style.cssText = "padding-left:5px;";
     link.appendChild(img);
 
     var user = document.querySelector("strong.mr-2.flex-self-stretch a").parentElement.parentElement.append(link);
