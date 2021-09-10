@@ -3,7 +3,7 @@
 // @name:zh-CN   一键直达 VS Code
 // @namespace    https://github.com/jks-liu/github.dev.user.js
 // @supportURL   https://github.com/jks-liu/github.dev.user.js
-// @version      1.0.0
+// @version      1.0.1
 // @description  One Click to VS Code <https://github.dev>. <https://github.com/jks-liu/github.dev.user.js>
 // @description:zh-CN   一键直达 VS Code <https://github.dev>。<https://github.com/jks-liu/github.dev.user.js>
 // @author       Jks Liu (https://github.com/jks-liu)
